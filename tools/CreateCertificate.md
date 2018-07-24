@@ -111,4 +111,4 @@ at server section:
 
 ## Move to next step:
 
-[Install generated SSL certifications to enable live preview of visuals](tools/CertificateSetup.md)
+[Install generated SSL certifications to enable live preview of visuals](CertificateSetup.md)
